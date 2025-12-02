@@ -51,3 +51,4 @@ echo "Using apm ($(which apm)) version:"
 echo
 
 apm -v
+
